@@ -1,8 +1,8 @@
-<h1 align="center">Foo Medical</h1>
+<h1 align="center">Cardio EPA Bienestar IA</h1>
 <p align="center">A free and open-source healthcare webapp from the Medplum team.</p>
 <p align="center">
-  <a href="https://github.com/medplum/foomedical/actions">
-    <img src="https://github.com/medplum/foomedical/actions/workflows/build.yml/badge.svg" />
+  <a href="https://github.com/drdalessandro/cardio/actions">
+    <img src="https://github.com/drdaelessandro/cardio/actions/workflows/build.yml/badge.svg" />
   </a>
   <a href="https://github.com/medplum/foomedical/blob/main/LICENSE.txt">
     <img src="https://img.shields.io/badge/license-Apache-blue.svg" />
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![Foo Medical Screenshot](screenshot.png)
+![Cardio EPA Bienestar IA Screenshot](screenshot.png)
 
 ### What is Foo Medical?
 

@@ -13,7 +13,7 @@ export function RegisterPage(): JSX.Element {
             <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
               <img
                 className="h-56 w-full object-cover lg:absolute lg:h-full"
-                src="https://images.unsplash.com/photo-1556761175-4b46a572b786?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1567&amp;q=80"
+                src="https://www.rumcsi.org/wp-content/uploads/2024/07/cardiovascular-patient-performing-shoulder-exercises-with-dumbbells-while-medical-professional-monitors-from-behind.jpg"
                 alt=""
               />
             </div>
